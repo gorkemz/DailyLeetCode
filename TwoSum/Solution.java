@@ -18,7 +18,8 @@ class Solution {
         int target = 9;
         Solution solution = new Solution();
         int[] result = solution.twoSum(nums, target);
-        System.out.println("Indices of the two numbers: " + result[0] + ", " + result[1]);
-    }
+        System.out.println("Indices of the two numbers:  " + result[0] + ", " + result[1]);
+    } 
+    
 }
 
